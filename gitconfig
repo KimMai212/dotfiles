@@ -1,3 +1,7 @@
+[user]
+	email = gtz.andrea@gmail.com
+	name = Andrea Goetz
+
 [color]
   branch = auto
   diff = auto
@@ -11,7 +15,7 @@
 
 [core]
   pager = less -FRSX
-	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
+	editor = '/Applications/Visual Studio Code.app' -n -w
 
 [alias]
   co = checkout
@@ -46,6 +50,3 @@
 
 [branch "master"]
   mergeoptions = --no-edit
-[user]
-	email = gtz.andrea@gmail.com
-	name = Andrea Goetz
